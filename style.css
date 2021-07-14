@@ -1,0 +1,9 @@
+html{
+    font-family: sans-serif;
+}
+#resposta{
+    margin-top: 15px;
+    font-size: 25px;
+    color: rgb(37, 37, 37);
+    display: block;
+}
